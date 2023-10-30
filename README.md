@@ -43,6 +43,10 @@
 - 알림 설정 API: `/api/notifications`
 - 물건 상세 정보 API: `/api/item/:id`
 
+## Database
+<img width="452" alt="image" src="https://github.com/Chae0510/GraduationPrject/assets/85086390/515291bc-c425-4ff9-8ea4-5e361def8cd6">
+
+
 ## 기술 스택
 
 - 프론트엔드:
